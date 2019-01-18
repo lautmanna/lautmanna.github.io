@@ -1,0 +1,17 @@
+h1 {
+    color: #749e42;
+    font-size: 40px;
+    text-shadow: 2px 1px 1px gray;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+.bullets {
+    text-align: center;
+    color: blue;
+}
+
+
+img{
+    width: 100px;
+}
