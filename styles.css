@@ -1,17 +1,33 @@
-h1 {
-    color: #749e42;
-    font-size: 40px;
-    text-shadow: 2px 1px 1px gray;
+
+nav{
+
     text-align: center;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+    margin: 20px 0 0;
+    padding: 10px;
 }
 
-.bullets {
-    text-align: center;
-    color: blue;
+nav ul{
+    margin: 0 2px;
+
+}
+
+nav li{
+    display: inline-block;
+    padding: 5px 75px;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: rgb(51, 161, 51);
 }
 
 
-img{
-    width: 100px;
+
+    h1{
+    font-size: 24px;
+    align-content: center
+
 }
+
+
+
+
