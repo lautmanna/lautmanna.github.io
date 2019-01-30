@@ -8,6 +8,7 @@ nav{
 
 nav ul{
     margin: 0 2px;
+    width: 1200px;
 
 }
 
@@ -18,17 +19,23 @@ nav li{
 
 .navbar-light .navbar-nav .nav-link {
     color: rgb(51, 161, 51);
+    
 }
 
-.container-fluid{
-    width: 100%;
+p{
+    text-align: center;
+    
+}
+
+.col-sm{
+    align-content: center;
 
 }
 
 
-    h1{
+h1{
     font-size: 24px;
-    align-content: center
+    text-align: center;
 
 }
 
@@ -37,7 +44,7 @@ nav li{
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    height: 1000px;
+    height: 850px;
     padding-top: 200px
 }
 
