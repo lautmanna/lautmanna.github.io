@@ -20,6 +20,10 @@ nav li{
     color: rgb(51, 161, 51);
 }
 
+.container-fluid{
+    width: 100%;
+
+}
 
 
     h1{
@@ -28,6 +32,13 @@ nav li{
 
 }
 
-
+.jumbotron {
+    background-image: url(necklace1.JPG);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 1000px;
+    padding-top: 200px
+}
 
 
