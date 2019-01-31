@@ -22,7 +22,7 @@ nav li{
 
 p{
     text-align: center;
-    font-size: 12
+    font-size: 14
 
 }
 
@@ -67,6 +67,13 @@ h4{
 }
 
 
-img{
+img {
     width: 100%
+    vertical-align: text-top;
+}
+
+img2 {
+    width: 50%;
+    vertical-align: text-top;
+
 }
