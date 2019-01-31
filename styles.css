@@ -1,3 +1,8 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+
 .navbar-brand{
     font-size: 3rem;
 }
@@ -5,7 +10,10 @@
 nav li{
     display: inline-block;
     padding: 5px 75px;
+    font-size: 24;
+
 }
+
 
 .navbar-light .navbar-nav .nav-link {
     color: rgb(51, 161, 51);
@@ -13,22 +21,35 @@ nav li{
 }
 
 
-
 p{
     text-align: center;
 
 }
 
-.col-sm{
-    align-content: center;
 
-}
 
 
 h1{
-    font-size: 24px;
+    font-size: 18px;
     text-align: center;
+}
 
+h2{
+    font-size: 18px;
+    text-align: center;
+    font-style: underline;
+    color: green;
+}
+
+
+h3{
+    font-size: 18px;
+    text-align: center;
+    
+}
+h4{
+    font-size: 16px;
+    text-align: center;
 }
 
 .jumbotron {
@@ -36,8 +57,12 @@ h1{
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    height: 850px;
-    padding-top: 200px
+    height: 500px;
+    padding-top: 320px;
+    padding-left: 1000px
 }
 
 
+img{
+    width: 100%
+}
