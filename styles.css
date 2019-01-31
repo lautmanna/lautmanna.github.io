@@ -1,15 +1,5 @@
-
-nav{
-
-    text-align: center;
-    margin: 20px 0 0;
-    padding: 10px;
-}
-
-nav ul{
-    margin: 0 2px;
-    width: 1200px;
-
+.navbar-brand{
+    font-size: 3rem;
 }
 
 nav li{
@@ -21,6 +11,8 @@ nav li{
     color: rgb(51, 161, 51);
     
 }
+
+
 
 p{
     text-align: center;
